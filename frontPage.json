@@ -1,0 +1,65 @@
+[
+    {
+        "id":"1",
+        "image":"dock.jpeg",
+        "title":"Empowering Businesses to Grow in <span class='text-cyan-400'>Japan</span>",
+        "subTitle":"Expand your business horizons in Japan and Indonesia. Our logistics and trade expertise ensure smooth operations and maximum impact.",
+        "content":"",
+        "placeholder":"Enter your email",
+        "button":"Submit"
+      },
+      {
+        "id":"2",
+        "image":"about.png",
+        "title":"About Mirai Group Japan",
+        "subTitle":"<span class='font-bold'>Mirai Group Japan</span> is a leading trading company, connecting Japanese innovation with global markets through a robust logistics and supply chain network. We specialize in exporting high-quality Japanese products, particularly in cosmetics and skincare, We also import exceptional products from around the world, ensuring their efficient and reliable delivery to the Japanese market.",
+        "content":"<span class='font-bold'>Additionally</span>, we offer comprehensive consultancy services for international companies looking to enter the dynamic Japanese market. Our unwavering commitment to excellence and streamlined operations ensures we consistently meet the demands of both local and international markets, setting the standard for genuine Japanese quality worldwide.",
+        "placeholder":"Enter your email",
+        "button":"Contact Us"
+      },
+      {
+        "id":"3",
+        "image":"",
+        "title":"Our Offices Across the World",
+        "subTitle":"Mirai Group Japan boasts a global presence with offices strategically located worldwide. Our international locations ensure we provide exceptional service and support to clients everywhere. Discover how our innovative solutions and dedicated team are always within reach.",
+        "content":"",
+        "placeholder":"",
+        "button":""
+      },
+      {
+        "id":"4",
+        "image":"",
+        "title":"From Japan to the World",
+        "subTitle":"Mirai Group: Japan’s Logistics Excellence For the World.",
+        "content":"",
+        "placeholder":"",
+        "button":""
+      },
+      {
+        "id":"5",
+        "image":"",
+        "title":"Our Company Values",
+        "subTitle":" At the heart of our organization lie four core values that guide our actions and decisions. These values are: ",
+        "content":"",
+        "placeholder":"",
+        "button":""
+      },
+      {
+        "id":"6",
+        "image":"",
+        "title":"Our B2B Ecosystem",
+        "subTitle":"",
+        "content":"",
+        "placeholder":"",
+        "button":""
+      },
+      {
+        "id":"7",
+        "image":"",
+        "title":"Latest News",
+        "subTitle":"",
+        "content":"",
+        "placeholder":"",
+        "button":""
+      }
+    ]

@@ -1,0 +1,22 @@
+[    {
+    "id":1,
+    "image":"about-us-02.jpeg",
+    "title":"Expanding Japanese Products Globally. Introducing Foreign Products to Japan",
+    "subTitle":"Quality products made in Japan are trusted worldwide, and we are committed to continually enhancing that trust.",
+    "subTitle2":"Furthermore, we will introduce exceptional foreign products not found in Japan to the Japanese market."
+ },
+ {
+    "id":2,
+    "image":"about-us-01.jpeg",
+    "title":"Our Responsibility: Bridging Japan and the World",
+    "subTitle":"Embark on the exciting journey of international business with us. While Japan holds undiscovered treasures that have yet to be unveiled, these hidden gems can be perceived as invaluable when viewed from an international perspective. A slight shift in your viewpoint will make you appreciate the differences that enrich our global landscape.",
+    "subTitle2":"Rather than settling for the visible status quo, we encourage both companies and individuals to venture into the unseen future. Our mission is to provide an environment that nurtures an innovative mindset, fostering growth and making a meaningful contribution to society."
+ },
+ {
+    "id":3,
+    "image":"about-us-02.jpeg",
+    "title":"International Expansion Consulting",
+    "subTitle":"With a history of guiding numerous international companies to success, linking them with prominent Japanese distribution networks, we have effectively multiplied their revenues and spurred growth.",
+    "subTitle2":"Our mission is to serve as the \"Global Business Partner of the Future,\" supporting the expansion of international companies into the Japanese market and introducing their exceptional products throughout Japan."
+ }
+]
