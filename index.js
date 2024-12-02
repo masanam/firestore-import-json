@@ -4,14 +4,14 @@ require('dotenv').config();
 const data_json = require('./data.json');
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC59C91cZD6KVlFr9QoeKh4ZbiuqWQcaSc",
-  authDomain: "mgj-website.firebaseapp.com",
-  databaseURL: "https://mgj-website-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "mgj-website",
-  storageBucket: "mgj-website.firebasestorage.app",
-  messagingSenderId: "1068796830764",
-  appId: "1:1068796830764:web:9110e88f67350f30b19d89",
-  measurementId: "G-PFZY2L7RP4"
+  apiKey: import.meta.env.VITE_API_KEY,
+  authDomain: import.meta.env.VITE_AUTH_DOMAIN,
+  databaseURL: import.meta.env.VITE_DATABASE_URL,
+  projectId: import.meta.env.VITE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_APP_ID,
+  measurementId: import.meta.env.VITE_MEASUREMENT_ID
 };
 
 const app = initializeApp(firebaseConfig);
